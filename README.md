@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ggulgulia
 - 👀 I’m interested in Modern C++, Large Scale Software Development, Software Integration, [Teaching](https://mastering-modern-cpp-features.thinkific.com/courses/mastering-modern-cpp-features), [Blogging](https://medium.com/@ggulgulia)
 - 🌱 I’m currently learning C++20, [Conan](https://conan.io/)
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything that can improve software life cycle, scalability, ease of use, feature development
 - 📫 How to reach me: 📧 gajendra.gulgulia@gmail.com 
 
 <!---
